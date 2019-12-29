@@ -1,1 +1,11 @@
-["mindustry.ddns.net:2000", "mindustry.indielm.com:9001"]
+[
+{"address": "mindustry.me:6568"}, 
+{"address":"mindustry.nydus.app:6568"},
+{"address":"mindustry.io:1000"},
+{"address":"mindustry.io:2000"},
+{"address":"mindustry.io:3000"},
+{"address":"petruchio.org.ru:6568"},
+{"address":"mindustry.ddns.net:4000"},
+{"address":"mindustry.ddns.net:2000"}
+]
+ 
