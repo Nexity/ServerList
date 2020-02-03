@@ -1,4 +1,5 @@
 [
+{"address":"omegadustry.ddns.net:6568"},
 {"address":"mindustry.io:6568"}, 
 {"address":"mindustry.io:1000"},
 {"address":"mindustry.io:2000"},
@@ -11,5 +12,5 @@
 {"address":"m.tinylake.tk:6597"},
 {"address":"mindustry.nydus.app:6568"},
 {"address":"mindustry.indielm.com:9001"},
-{"address": "mindustry.us.to:6568"}
+{"address":"mindustry.us.to:6568"}
 ]
