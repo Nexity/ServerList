@@ -1,6 +1,5 @@
 [
-{"address":"mindustry.me:6568"}, 
-{"address":"mindustry.nydus.app:6568"},
+{"address":"mindustry.io:6568"}, 
 {"address":"mindustry.io:1000"},
 {"address":"mindustry.io:2000"},
 {"address":"mindustry.io:3000"},
@@ -10,6 +9,7 @@
 {"address":"mindustry.tk:6568"},
 {"address":"mindustry.ecansol.com:6597"},
 {"address":"m.tinylake.tk:6597"},
+{"address":"mindustry.nydus.app:6568"},
 {"address":"mindustry.indielm.com:9001"},
 {"address": "mindustry.us.to:6568"}
 ]
