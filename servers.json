@@ -1,17 +1,38 @@
 [
-{"address":"omegadustry.ddns.net:911"},
-{"address":"omegadustry.ddns.net"},
-{"address:dev.mindustry.io},
-{"address":"mindustry.io}, 
-{"address":"mindustry.io:1000"},
-{"address":"mindustry.io:2000"},
-{"address":"mindustry.io:3000"},
-{"address":"mindustry.us.to"},
-{"address":"mindustry.ecansol.com:6597"},
-{"address":"mindustry.ecansol.com:6499"},
-{"address":"petruchio.org.ru:6568"},
-{"address":"mindustry.ddns.net:4000"},
-{"address":"mindustry.ddns.net:2000"},
-{"address":"mindustry.nydus.app:6568"},
-{"address":"mindustry.indielm.com:9001"}
+  {
+    "address":"omegadustry.ddns.net"
+  },
+  {
+    "address":"omegadustry.ddns.net:911"
+  },
+  {
+    "address": "mindustry.us.to"
+  },
+  {
+    "address": "mindustry.indielm.com:1101"
+  },
+  {
+    "address": "mindustry.ecansol.com:6597"
+  },
+  {
+    "address": "mindustry.ecansol.com:6499"
+  },
+  {
+    "address": "mindustry.ru"
+  },
+  {
+    "address": "mindustry.ru:7000"
+  },
+  {
+    "address": "mindustry.io"
+  },
+  {
+    "address": "mindustry.io:1000"
+  },
+  {
+    "address": "mindustry.io:2000"
+  },
+  {
+    "address": "mindustry.io:3000"
+  }
 ]
